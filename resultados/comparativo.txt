@@ -1,0 +1,26 @@
+Comparação Tesseract x EasyOCR
+========================================
+1 - Copia.JPG  | Tesseract: IFA1T95      | EasyOCR: IFA1T95
+1.JPG          | Tesseract: IFA1T95      | EasyOCR: IFA1T95
+10 - Copia.JPG | Tesseract: PBU7Z7       | EasyOCR: PPU7522
+10.JPG         | Tesseract: PBU7Z7       | EasyOCR: PPU7522
+11 - Copia.JPG | Tesseract: LMNL3U9S     | EasyOCR: MNL3U98
+11.JPG         | Tesseract: LMNL3U9S     | EasyOCR: MNL3U98
+12.JPG         | Tesseract: JET7G88      | EasyOCR: JET7G88
+13.JPG         | Tesseract: 3P890S9      | EasyOCR: ABP8085
+14.JPG         | Tesseract: PHISHOO      | EasyOCR: PHI8HTN
+15.JPG         | Tesseract: THY7E39      | EasyOCR: THY7EI9
+16.JPG         | Tesseract: UHK5055      | EasyOCR: UXK5055
+17.JPG         | Tesseract: NZ0SM77      | EasyOCR: NZE3M77
+18.JPG         | Tesseract: (nenhum texto detectado) | EasyOCR: XDASES0
+19.JPG         | Tesseract: V4PVJQA      | EasyOCR: ES142
+2.JPG          | Tesseract: 2ZQQPVX      | EasyOCR: NEVID8
+20 - Copia.JPG | Tesseract: FQM2151      | EasyOCR: J9UJL
+20.JPG         | Tesseract: FQM2151      | EasyOCR: J9UJL
+3.JPG          | Tesseract: Z22168       | EasyOCR: MER9C55
+4.JPG          | Tesseract: QOWON47      | EasyOCR: UR0ND7
+5.JPG          | Tesseract: EEQ3F44      | EasyOCR: A1BRY9S
+6.JPG          | Tesseract: 5AIAOSI      | EasyOCR: 7YL3X75
+7.JPG          | Tesseract: V37EWJE      | EasyOCR: EXQ2195
+8.JPG          | Tesseract: XHY6U2       | EasyOCR: XHY6U29
+9.JPG          | Tesseract: ROA4JI6      | EasyOCR: A0A4J16
