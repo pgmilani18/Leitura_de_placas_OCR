@@ -7,6 +7,7 @@ RESULTADOS = RAIZ / "resultados"
 def linhas_de_placa(caminho):
     dados = {}
     for linha in Path(caminho).read_text(encoding="utf-8").splitlines():
+        # Linhas "bruto:" são indentadas e também contêm ":".
         if ":" in linha and not linha.startswith(" "):
             nome, valor = linha.split(":", 1)
             dados[nome.strip()] = valor.strip()

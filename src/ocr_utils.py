@@ -23,6 +23,7 @@ def tokens(texto):
 
 
 def _nota_token(token, eh_juncao):
+    # Heurística: formato de placa válido vale 100; ruído derruba a nota.
     if token in PALAVRAS_RUIDO:
         return -1.0
     if PADRAO_MERCOSUL.fullmatch(token) or PADRAO_ANTIGO.fullmatch(token):
