@@ -148,65 +148,7 @@ linha `bruto:` de cada `.txt`, para conferência.
 Arquivos gerados: `resultados/tesseract.txt`, `resultados/easyocr.txt` e
 `resultados/comparativo.txt`.
 
-#### 6.1 Resultados do Tesseract
-
-| Imagem | Texto reconhecido |
-|---|---|
-| 1 - Copia.JPG | IFA1T95 |
-| 1.JPG | IFA1T95 |
-| 10 - Copia.JPG | PBU7Z7 |
-| 10.JPG | PBU7Z7 |
-| 11 - Copia.JPG | LMNL3U9S |
-| 11.JPG | LMNL3U9S |
-| 12.JPG | JET7G88 |
-| 13.JPG | 3P890S9 |
-| 14.JPG | PHISHOO |
-| 15.JPG | THY7E39 |
-| 16.JPG | UHK5055 |
-| 17.JPG | NZ0SM77 |
-| 18.JPG | (nenhum texto detectado) |
-| 19.JPG | V4PVJQA |
-| 2.JPG | 2ZQQPVX |
-| 20 - Copia.JPG | FQM2151 |
-| 20.JPG | FQM2151 |
-| 3.JPG | Z22168 |
-| 4.JPG | QOWON47 |
-| 5.JPG | EEQ3F44 |
-| 6.JPG | 5AIAOSI |
-| 7.JPG | V37EWJE |
-| 8.JPG | XHY6U2 |
-| 9.JPG | ROA4JI6 |
-
-#### 6.2 Resultados do EasyOCR
-
-| Imagem | Texto reconhecido |
-|---|---|
-| 1 - Copia.JPG | IFA1T95 |
-| 1.JPG | IFA1T95 |
-| 10 - Copia.JPG | PPU7522 |
-| 10.JPG | PPU7522 |
-| 11 - Copia.JPG | MNL3U98 |
-| 11.JPG | MNL3U98 |
-| 12.JPG | JET7G88 |
-| 13.JPG | ABP8085 |
-| 14.JPG | PHI8HTN |
-| 15.JPG | THY7EI9 |
-| 16.JPG | UXK5055 |
-| 17.JPG | NZE3M77 |
-| 18.JPG | XDASES0 |
-| 19.JPG | ES142 |
-| 2.JPG | NEVID8 |
-| 20 - Copia.JPG | J9UJL |
-| 20.JPG | J9UJL |
-| 3.JPG | MER9C55 |
-| 4.JPG | UR0ND7 |
-| 5.JPG | A1BRY9S |
-| 6.JPG | 7YL3X75 |
-| 7.JPG | EXQ2195 |
-| 8.JPG | XHY6U29 |
-| 9.JPG | A0A4J16 |
-
-#### 6.3 Relação entre os resultados
+#### 6.1 Relação entre os resultados
 
 | Imagem | Tesseract | EasyOCR |
 |---|---|---|
